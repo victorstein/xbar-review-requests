@@ -4,7 +4,7 @@
 // <xbar.version>v0.1</xbar.version>
 // <xbar.author>Alfonso Gomez</xbar.author>
 // <xbar.author.github>victorstein</xbar.author.github>
-// <xbar.image>https://github-bogdal.s3.amazonaws.com/bitbar-plugins/review-requests.png</xbar.image>
+// <xbar.image>https://github.com/victorstein/xbar-review-requests/raw/main/preview-img.png</xbar.image>
 // <xbar.dependencies>Deno</xbar.dependencies>
 
 //  Variables
